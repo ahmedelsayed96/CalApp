@@ -5,6 +5,7 @@ class CallApp {
     int x = 5;
     int y = 3;
     int res = x + y;
+    // printing hello and res value 
     System.out.println("Hello From Call App :"+res);
         
     }
